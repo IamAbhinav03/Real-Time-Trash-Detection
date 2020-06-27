@@ -1,1 +1,1 @@
-"# Real-Time-Trash-Detection" 
+# Real-Time-Trash-Detection
