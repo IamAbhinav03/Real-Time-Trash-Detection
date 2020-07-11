@@ -9,10 +9,10 @@ https://www.kaggle.com/asdasdasasdas/garbage-classification.
 We're also using some image from the dataset Garbage by G Mittal, K B Yagnik, M Garg, and N C Krishnan, Spot Garbage: Smartphone App to Detect Garbage Using Deep Learning, ACM International Joint Conference on Pervasive and Ubiquitous Computing, 940-945, 2016. You can download the dataset form the link given below
 https://www.kaggle.com/apremeyan/garbage?
 
-Created by
-Abhinav M Hari
-Gopikrishnan K
-Shivani
-Sreeraj Rajeendran
-Fausan Asharaf
-Ananthu Ajay
+Created by:
+Abhinav M Hari,
+Gopikrishnan K,
+Shivani,
+Sreeraj Rajeendran,
+Fausan Asharaf,
+Ananthu Ajay,
