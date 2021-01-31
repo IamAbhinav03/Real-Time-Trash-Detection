@@ -1,6 +1,6 @@
 # Real-Time-Trash-Detection
 
-This is a Waste Classifier created as final project to Pytorch crash course created by tinker hub. Our model can classify  plastics, trash, etc.  Then we're using Yolo v3 for classification.
+This is a Waste Classifier created as final project to Pytorch crash course created by tinker hub. Our model can classify  plastics, trash, etc.  Then we're using ResNet for classification.
 
 # Datasets Used
 
